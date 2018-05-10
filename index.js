@@ -67,11 +67,11 @@ bot.on('guildMemberAdd', member => {
     let serverembed = new Discord.RichEmbed()
     .setTitle(">>> Devenir un Raideur <<<")
                   .setAuthor(bot.user.username, bot.user.avatarURL)	
-    .addField("`Libre à toi maintenant de choisir.`","................................................................................................")
+    .addField("`Libre à toi maintenant de nous rejoindre.`","................................................................................................")
     .setColor("#320242")
     .setThumbnail(sicon)
     .setImage('https://media.giphy.com/media/9G59zMKPvyg3ZMniGK/giphy.gif')
-    .setURL('https://discord.gg/gTBS7NE')
+    .setURL('https://goo.gl/517Pgi')
     .setFooter("┗(｀Дﾟ┗(｀ﾟДﾟ´)┛ﾟД´)┛┗(｀Дﾟ┗(｀ﾟДﾟ´)┛ﾟД´)┛")
 
   return channel.send(serverembed).catch(console.error);
@@ -586,12 +586,12 @@ message.delete();
           var help_embed = new Discord.RichEmbed()
 
     .setTitle(">>> Ajouter Azzara'Hel <<<")
-    .addField("`Azzara'Hel est désormais disponible mais pas totalement terminé.")
+    .addField("Merci de t’apprêter à me mettre dans ton serveur !","................................................................................................")
     .setColor("#320242")
-    .setImage('https://media0.giphy.com/media/o2KLYPem407CM/giphy.gif')
+    .setImage('https://media.giphy.com/media/3CX1hiyMyUYgVc8ovc/giphy.gif')
     .setThumbnail(sicon)
     .setURL('https://discordapp.com/api/oauth2/authorize?client_id=443976303595618305&permissions=8&scope=bot')
-    .setFooter("Contacter mon créateur pour savoir des informations precises sur moi",bot.user.displayAvatarURL);
+    .setFooter("Contacter mon développeur pour savoir des informations precises sur moi",bot.user.displayAvatarURL);
 
   message.author.sendEmbed(help_embed).catch(console.error)
   message.channel.send(":black_nib: Un message contenant l'invitation du bot vient d'etre envoyé dans votre message privé !")
