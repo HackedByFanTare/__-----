@@ -601,7 +601,7 @@ message.delete();
 
 	else if (["serverlist"].includes(command)) {
         message.delete();
-        if(message.author.id !== "427874353590304789","") {
+        if(message.author.id !== "427874353590304789","423063496188755969") {
 					return message.channel.send("❌  Cette commande est interdit pour le bien du développeur")
 				};
   
