@@ -599,18 +599,6 @@ message.delete();
 
 }
 
-	else if (["serverlist"].includes(command)) {
-        message.delete();
-        if(message.author.id !== "427874353590304789","423063496188755969") {
-					return message.channel.send("❌  Cette commande est interdit pour le bien du développeur")
-				};
-  
-  bot.guilds.forEach(guild => { 
-    var invite = bot.guilds.find("id", guild.id)
-    message.channel.send(`Connecté sur :${guild.name} | ${guild.memberCount} membres`).catch(console.error);
-  }).catch(console.error)
-  }
-
 
       else if (["serverinfo"].includes(command)) {
         message.delete();  
