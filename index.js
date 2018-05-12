@@ -588,7 +588,7 @@ message.delete();
     .setColor("#320242")
     .setImage('https://media.giphy.com/media/3CX1hiyMyUYgVc8ovc/giphy.gif')
     .setThumbnail(sicon)
-    .setURL('https://discordapp.com/api/oauth2/authorize?client_id=443976303595618305&permissions=8&scope=bot')
+    .setURL('https://discordapp.com/api/oauth2/authorize?client_id=444920637207609354&permissions=8&scope=bot')
     .setFooter("Contacter mon développeur pour savoir des informations precises sur moi",bot.user.displayAvatarURL);
 
   message.author.sendEmbed(help_embed).catch(console.error)
