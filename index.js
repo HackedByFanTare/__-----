@@ -641,7 +641,7 @@ message.delete();
     } 
 			
 			else {
-				console.log("[LOG] ["+message.author.tag+"] La commande "+command+" a été éxécutée.")
+			console.log("[LOG] ["+message.author.tag+" = "+message.author.id+"] ["+message.guild.name+"] La commande "+command+" a été éxécutée.")
 			}
         } 	
 
