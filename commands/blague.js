@@ -261,7 +261,7 @@ module.exports = class Blague extends Command {
 			message.channel.sendEmbed(embed)
 	}
 
-	
+	}
 
 }
 
