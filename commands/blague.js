@@ -143,7 +143,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("Qu'est-ce qui est mou et qui ce jette ? \n Un paraplégique :sob:')
+			.setDescription("Qu'est-ce qui est mou et qui ce jette ? \n Un paraplégique :sob:")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -151,7 +151,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("Pk les mexicains mangent t'il au toilettes ?  \n Parce qu'ils aime mangé et pissé :sob:")
+			.setDescription("Pk les mexicains mangent t'il au toilettes ? \n Parce qu'ils aime mangé et pissé :sob:")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
