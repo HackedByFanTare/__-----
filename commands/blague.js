@@ -116,7 +116,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("Comment appelle t'on une fille qui suce pas? \n On l'appel pas :sob:")
+			.setDescription("Comment appelle t'on une fille qui suce pas? \n On l'appel pas :kissing_smiling_eyes:")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -125,7 +125,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription('Que dit un chat qui rentre dans une pharmacie ? \n Vous avez du sirop pour matou ? :sob:')
+			.setDescription('Que dit un chat qui rentre dans une pharmacie ? \n Vous avez du sirop pour matou ? :cat:')
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -134,7 +134,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("Comment s'appelle le dinosaures gay ? \n Le tripotanus :sob:")
+			.setDescription("Comment s'appelle le dinosaures gay ? \n Le tripotanus :stuck_out_tongue_closed_eyes:")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -143,7 +143,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("Qu'est-ce qui est mou et qui ce jette ? \n Un paraplégique :sob:")
+			.setDescription("Qu'est-ce qui est mou et qui ce jette ? \n Un paraplégique :no_mouth: ")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -151,7 +151,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("Pk les mexicains mangent t'il au toilettes ? \n Parce qu'ils aime mangé et pissé :sob:")
+			.setDescription("Pk les mexicains mangent t'il au toilettes ? \n Parce qu'ils aime mangé et pissé :laughing: ")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -159,7 +159,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription('Quel est le point commun entre un tampon et téléphone ? \n On sait qui est au bout du fil :sob:')
+			.setDescription('Quel est le point commun entre un tampon et téléphone ? \n On sait qui est au bout du fil :wink:')
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -167,7 +167,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription('Un électricien est mort \n On va mettre sa famille au courant ! :sob:')
+			.setDescription('Un électricien est mort \n On va mettre sa famille au courant ! :zap:')
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -175,7 +175,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("C'est 2 chinois qui joue au bowling y'en n'a un qui fait un strike \n et son pote lui dit `c'est beau ling` :sob:")
+			.setDescription("C'est 2 chinois qui joue au bowling y'en n'a un qui fait un strike \n et son pote lui dit `c'est beau ling` :laughing: ")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -191,7 +191,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("Quel est la différence entre la sodomie et les brocoli ? \n Y'en n'a pas même avec du beurres les enfants aime pas sa :sob:")
+			.setDescription("Quel est la différence entre la sodomie et les brocoli ? \n Y'en n'a pas même avec du beurres les enfants aime pas sa ::slight_smile: ")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -215,7 +215,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("Pk les policier n'ont pas de rides ? \n LParce qu'ils sont la peau lisse :sob:")
+			.setDescription("Pk les policier n'ont pas de rides ? \n LParce qu'ils sont la peau lisse :slight_smile: ")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -223,7 +223,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("C'est 2 fou qui marche dans la rue t'en n'a il ce baisse il ramasse une merde et dit à l'autre ptn regarde dans quoi j'ai failli marché :sob:")
+			.setDescription("C'est 2 fou qui marche dans la rue t'en n'a il ce baisse il ramasse une merde et dit à l'autre ptn regarde dans quoi j'ai failli marché :laughing: ")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 		message.channel.sendEmbed(embed)
@@ -231,7 +231,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("Tu savais que l'iPhone X ce plie? \n nn pk? \n parce que l'apple store :sob:")
+			.setDescription("Tu savais que l'iPhone X ce plie? \n nn pk? \n parce que l'apple store :smirk:")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -239,7 +239,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("Que fait un zoophiles qui veut sauté ? \n Bah il prend son élan :sob:")
+			.setDescription("Que fait un zoophiles qui veut sauté ? \n Bah il prend son élan :upside_down: ")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -247,7 +247,7 @@ module.exports = class Blague extends Command {
 			
 			var embed = new Discord.RichEmbed()
 			.setColor("#320242")
-			.setDescription("Pk le film Harry Potter est classé fantastique ? \n Parce que le roux à des amis :sob:")
+			.setDescription("Pk le film Harry Potter est classé fantastique ? \n Parce que le roux à des amis :upside_down: ")
 			.setFooter("Les meilleurs blagues d'Azzara'Hel")
 					    .setAuthor(bot.user.username, bot.user.avatarURL);
 			message.channel.sendEmbed(embed)
@@ -264,4 +264,3 @@ module.exports = class Blague extends Command {
 	}
 
 }
-
