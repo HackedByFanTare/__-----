@@ -1,5 +1,5 @@
 { 
-	"token"  : "NDQ3NDY0NDQxNTA0NTk1OTY5.DeH-cw.u1dKYqXPisSWS6KXwNG7DcgsD98",
+	"token"  : process.env.TOKEN,
 	"prefix" : "d"
 	
 }
