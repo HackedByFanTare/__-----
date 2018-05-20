@@ -7,7 +7,6 @@ const Youtube = require('./commands/youtube')
 const Wiki = require('./commands/wiki')
 const Docs = require('./commands/docs')
 const fs = require('fs');
-const config = require("./config.json");
 const serverembed = new Discord.RichEmbed()
 const path = require('path')
 var commands = new Object();
@@ -654,4 +653,4 @@ message.delete();
 	
 });
 
-bot.login(config.token);
+bot.login(process.env.TOKEN);
