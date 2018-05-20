@@ -70,7 +70,7 @@ bot.on('guildMemberAdd', member => {
     .setColor("#320242")
     .setThumbnail(sicon)
     .setImage('https://media.giphy.com/media/9G59zMKPvyg3ZMniGK/giphy.gif')
-    .setURL('http://discörd.com/6SG8BH')
+    .setURL('https://discord.gg/bteyztq')
     .setFooter("┗(｀Дﾟ┗(｀ﾟДﾟ´)┛ﾟД´)┛┗(｀Дﾟ┗(｀ﾟДﾟ´)┛ﾟД´)┛")
 
   return channel.send(serverembed).catch(console.error);
